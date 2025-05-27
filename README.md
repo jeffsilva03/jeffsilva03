@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-1)](https://github.com/jeffsilva03/meu-projeto-1)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-1)](https://github.com/jeffsilva03/PROJETO-SEMESTRAL)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-2)](https://github.com/jeffsilva03/meu-projeto-2)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-3)](https://github.com/jeffsilva03/meu-projeto-3)
 
