@@ -1,6 +1,47 @@
 ## Oiii eu sou o Jeff Silva, Desenvolvedor FullStack!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jeffsilva03=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Estatísticas Gerais -->
+[![Jeff Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffsilva03&show_icons=true&theme=radical&hide=issues,prs)](https://github.com/jeffsilva03)
+
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsilva03&layout=compact&langs_count=8)](https://github.com/jeffsilva03)
+
+
+## 📌 Repositórios Fixados
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-1)](https://github.com/jeffsilva03/meu-projeto-1)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-2)](https://github.com/jeffsilva03/meu-projeto-2)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=meu-projeto-3)](https://github.com/jeffsilva03/meu-projeto-3)
+
+</div>
+
+---
+
+## 🕒 WakaTime Stats
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffsilva03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## ⚙️ Exemplos de Customização
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jeffsilva03&show_icons=true&theme=dracula)
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jeffsilva03&show_icons=true&hide=contribs,rank)
+
+
+[![Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsilva03&layout=donut)](https://github.com/jeffsilva03)
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
