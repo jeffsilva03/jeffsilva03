@@ -108,14 +108,12 @@ const jeffersonSilva = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=ProjetoSemestral---LIBRALI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
   </a>
 
-  <a href="https://github.com/jeffsilva03/APPSENAIindustria4.0
-">
+  <a href="https://github.com/jeffsilva03/APPSENAIindustria4.0">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=APPSENAIindustria4.0
 &theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
   </a>
 
-   <a href="https://github.com/jeffsilva03/augebitMOBILE
-">
+   <a href="https://github.com/jeffsilva03/augebitMOBILE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=augebitMOBILE
 &theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
   </a>
