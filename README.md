@@ -3,7 +3,7 @@
 <div align="center">
   
   <p align="center">
-  <img src="assets/Banner.gif" alt="Banner" width="800"/>
+  <img src="Banner.gif" alt="Banner" width="800"/>
 </p>
   
 </div>
