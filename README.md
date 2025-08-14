@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Especialista+em+React+%26+Node.js;Construindo+o+futuro+com+código;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!)
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Bem-vindo!&fontSize=30&fontColor=fff&animation=fadeIn"/>
+  <p align="center">
+  <img src="assets/Banner.gif" alt="Banner" width="800"/>
+</p>
   
 </div>
 
