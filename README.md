@@ -165,7 +165,7 @@ const jeffersonSilva = {
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffop801@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-355620323/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://jeffsilva.dev](http://www.jeffcode.rf.gd/index.php))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://jeffsilva.dev](http://www.jeffcode.com.br/index.php))
   
 </div>
 
@@ -184,6 +184,12 @@ const jeffersonSilva = {
 </div>
 
 ---
+
+
+<br/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+  <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling"/>
 
