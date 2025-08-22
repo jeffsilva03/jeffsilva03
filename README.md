@@ -64,37 +64,28 @@ const jeffersonSilva = {
 
 ---
 
-## 💻 Stack Tecnológica
-
+🛠️ Arsenal Tecnológico
 <div align="center">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 🗄️ Bancos de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-
+🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,figma" alt="Frontend Skills"/>
+</p>
+⚡ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,prisma,sequelize" alt="Backend Skills"/>
+</p>
+📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,xcode" alt="Mobile Skills"/>
+</p>
+🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,vercel,heroku" alt="Database & Cloud"/>
+</p>
+🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,cypress,webpack,vite" alt="Tools"/>
+</p>
 </div>
 
 ---
