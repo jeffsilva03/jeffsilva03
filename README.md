@@ -68,11 +68,11 @@ const jeffersonSilva = {
 <div align="center">
 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,figma" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap,figma" alt="Frontend Skills"/>
 </p>
 ⚡ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,prisma,sequelize" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,graphql,prisma,sequelize" alt="Backend Skills"/>
 </p>
 📱 Mobile Development
 <p>
@@ -80,7 +80,7 @@ const jeffersonSilva = {
 </p>
 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,docker,vercel,heroku" alt="Database & Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws," alt="Database & Cloud"/>
 </p>
 🔧 Tools & Workflow
 <p>
