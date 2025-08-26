@@ -156,7 +156,7 @@ const jeffersonSilva = {
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffop801@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-355620323/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://jeffsilva.dev](http://www.jeffcode.com.br/index.php))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.jeffcode.com.br/index.php](https://www.jeffcode.com.br/index.php))
   
 </div>
 
