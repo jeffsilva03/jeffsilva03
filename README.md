@@ -47,45 +47,41 @@ const jeffersonSilva = {
 
 ## 📊 Estatísticas GitHub
 
-
-  
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffsilva03&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
 </div>
 
 ---
 
-## 🏆 Conquistas GitHub
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffsilva03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience"/>
-</div>
 
----
-
-🛠️ Arsenal Tecnológico
-<div align="center">
-🎨 Frontend Development
-<p>
+### 🎨 Frontend Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap,figma" alt="Frontend Skills"/>
 </p>
-⚡ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,graphql,prisma,sequelize" alt="Backend Skills"/>
+
+### ⚡ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,python,java" alt="Backend Skills"/>
 </p>
-📱 Mobile Development
-<p>
+
+### 📱 Mobile Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,xcode" alt="Mobile Skills"/>
 </p>
-🗄️ Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws," alt="Database & Cloud"/>
+
+### 🗄️ Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws" alt="Database & Cloud"/>
 </p>
-🔧 Tools & Workflow
-<p>
+
+### 🔧 Tools & Workflow
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,cypress,webpack,vite" alt="Tools"/>
 </p>
+
 </div>
 
 ---
@@ -116,9 +112,6 @@ const jeffersonSilva = {
 
 ---
 
-
-
-
 ## 📊 Estatísticas de Desenvolvimento
 
 <div align="center">
@@ -139,7 +132,6 @@ const jeffersonSilva = {
 
 ---
 
-
 ## 💬 Citação Inspiradora
 
 <div align="center">
@@ -156,14 +148,12 @@ const jeffersonSilva = {
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffop801@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-355620323/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.jeffcode.com.br/index.php])
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeffcode.com.br)
 
   
 </div>
 
 ---
-
-
 
 <div align="center">
   
@@ -176,7 +166,6 @@ const jeffersonSilva = {
 </div>
 
 ---
-
 
 <br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
