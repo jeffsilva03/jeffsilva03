@@ -20,7 +20,7 @@ const jeffersonSilva = {
   role: "Full Stack Developer",
   location: "São Paulo, Brasil 🇧🇷",
   experience: "2+ anos",
-  code: ["JavaScript", "TypeScript", "React-Native", "Flutter"],
+  code: ["JavaScript", "PHP", "React-Native", "Flutter"],
   askMeAbout: ["web dev", "tech", "app dev", "database design", "clean code"],
   technologies: {
     frontEnd: {
@@ -29,11 +29,9 @@ const jeffersonSilva = {
       mobile: ["React Native", "Flutter"]
     },
     backEnd: {
-      js: ["Node.js", "Express", "NestJS", "Fastify"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+      js: ["Node.js", "PHP", "Python", "Java"],
+      databases: ["MongoDB", "NoSQL", "MySQL"]
     },
-    devOps: ["Docker", "AWS", "Vercel", "Heroku", "Railway"],
-    tools: ["Git", "Webpack", "Vite", "Jest", "Cypress", "Postman"]
   },
   currentFocus: "Construindo aplicações escaláveis e performáticas",
   funFact: "Debug é 90% café e 10% código ☕",
