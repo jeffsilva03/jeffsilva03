@@ -89,13 +89,18 @@ const jeffersonSilva = {
 <div align="center">
   
  
-  <a href="https://github.com/jeffsilva03/ProjetoSemestral---LIBRALI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=ProjetoSemestral---LIBRALI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
+  <a href="https://github.com/jeffsilva03/finance-app">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=finance-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"
+    alt="GitHub Repo: finance-app"
+  />
   </a>
 
-  <a href="https://github.com/jeffsilva03/APPSENAIindustria4.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=APPSENAIindustria4.0
-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
+  <a href="https://github.com/jeffsilva03/tastySalad">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=tastySalad&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"
+    alt="GitHub Repo: tastySalad"
+  />
   </a>
 
    <a href="https://github.com/jeffsilva03/augebitMOBILE">
