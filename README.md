@@ -19,7 +19,7 @@
 ```typescript
 const jeffersonSilva = {
   name: "Jefferson Silva",
-  age: 18, // 🎯 jovem, mas com mentalidade sênior
+  age: 18, 
   role: "Full Stack Developer",
   location: "São Paulo, Brasil 🇧🇷",
 
@@ -32,10 +32,9 @@ const jeffersonSilva = {
 
   stack: {
     frontend:  ["React", "Next.js", "Tailwind", "TypeScript"],
-    backend:   ["Node.js", "PHP", "Python", "Java"],
+    backend:   ["Node.js", "PHP", "Python", "C"],
     mobile:    ["React Native", "Flutter"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    cloud:     ["AWS"]
+    databases: ["FireBase", "MySQL" ]
   },
 
   currentFocus: "Aplicações escaláveis e bem arquitetadas",
@@ -85,12 +84,12 @@ const jeffersonSilva = {
 
 ### 🗄️ Banco de Dados & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,firebase" />
 </p>
 
 ### 🔧 Ferramentas & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,webpack,vite,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 </div>
