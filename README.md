@@ -38,7 +38,6 @@ const jeffersonSilva = {
   },
 
   currentFocus: "Aplicações escaláveis e bem arquitetadas",
-  funFact: "Debug é 90% café e 10% código ☕",
   goal: "Transformar cada linha de código em impacto real 🌎"
 };
 ```
@@ -69,12 +68,12 @@ const jeffersonSilva = {
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" />
 </p>
 
 ### ⚡ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
 </p>
 
 ### 📱 Mobile
@@ -129,44 +128,6 @@ const jeffersonSilva = {
 
 ---
 
-## 📌 Projetos em Destaque
-
-<div align="center">
-
-  <a href="https://github.com/jeffsilva03/finance-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=finance-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
-  </a>
-
-  <a href="https://github.com/jeffsilva03/tastySalad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=tastySalad&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
-  </a>
-
-  <a href="https://github.com/jeffsilva03/augebitMOBILE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeffsilva03&repo=augebitMOBILE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b"/>
-  </a>
-
-</div>
-
-> 💡 **Explore todos os meus repositórios para descobrir mais projetos!**
-
----
-
-## 💬 Filosofia de Código
-
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay"/>
-
-</div>
-
-<div align="center">
-
-> *"Não espero ter experiência para começar — começo para ganhar experiência."*
-
-</div>
-
----
-
 ## 🤝 Vamos Conectar?
 
 <div align="center">
@@ -187,8 +148,6 @@ const jeffersonSilva = {
 
 <div align="center">
 
-### 💡 *"Code is poetry written in logic"*
-
 **18 anos. Técnico formado. Futuro ADS. Presente: construindo o amanhã. 🚀**
 
 <sub>⭐ **Gostou do meu trabalho? Deixa uma estrela nos repositórios!** ⭐</sub>
@@ -197,6 +156,3 @@ const jeffersonSilva = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling"/>
 
-<div align="center">
-  <b>Feito com ❤️ muito ☕ e código limpo 🧹</b>
-</div>
