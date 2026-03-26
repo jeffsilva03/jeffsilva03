@@ -110,23 +110,6 @@ const jeffersonSilva = {
 
 ---
 
-## 📊 Análise de Atividade
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffsilva03&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffsilva03&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeffsilva03&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffsilva03&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeffsilva03&theme=tokyonight&utcOffset=-3"/>
-</div>
-
----
 
 ## 🤝 Vamos Conectar?
 
