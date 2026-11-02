@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-label="Chega Junto — Preparação para consultas e exames, com relatos organizados por IA sob revisão humana. Stack: Flutter, FastAPI, IA, Android." xml:space="preserve" style="white-space:pre">
+<defs><radialGradient id="g" cx="88%" cy="12%" r="70%"><stop stop-color="#0D9488" stop-opacity=".28"/><stop offset="1" stop-color="#0D9488" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="598" height="288" rx="20" fill="#FFFFFF" stroke="#D6E4F7" stroke-width="1.5"/>
+<rect x="1" y="1" width="598" height="288" rx="20" fill="url(#g)"/>
+<rect x="1" y="1" width="598" height="288" rx="20" fill="none" stroke="#0D9488" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="140 1632">
+ <animate attributeName="stroke-dashoffset" values="0;-1772" dur="7s" repeatCount="indefinite"/></rect>
+<text x="36" y="54" font-family="'Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#0D9488">01 · MOBILE + IA</text>
+<text x="34" y="104" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="800" letter-spacing="-.5" fill="#0F1E3A">Chega Junto</text>
+<text x="36" y="148" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#475569">Preparação para consultas e exames, com relatos</text><text x="36" y="174" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#475569">organizados por IA sob revisão humana.</text>
+<rect x="36.0" y="206" width="78.8" height="30" rx="15.0" fill="#0D94881F" stroke="#0D948866"/><text x="49.0" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">Flutter</text><rect x="122.8" y="206" width="78.8" height="30" rx="15.0" fill="#0D94881F" stroke="#0D948866"/><text x="135.8" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">FastAPI</text><rect x="209.6" y="206" width="41.1" height="30" rx="15.0" fill="#0D94881F" stroke="#0D948866"/><text x="222.6" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">IA</text><rect x="258.6" y="206" width="78.8" height="30" rx="15.0" fill="#0D94881F" stroke="#0D948866"/><text x="271.6" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">Android</text>
+<g transform="translate(528 66)">
+ <circle r="40" fill="none" stroke="#0D9488" stroke-opacity=".45" stroke-dasharray="4 7"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></circle>
+ <circle r="28" fill="#0D9488" fill-opacity=".14" stroke="#0D9488" stroke-opacity=".5"/>
+ <g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="5s" repeatCount="indefinite"/><circle cx="40" r="4.5" fill="#0D9488"/></g>
+ <text y="7.9" text-anchor="middle" font-family="'Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="22" font-weight="700" fill="#0D9488">+</text>
+</g>
+<line x1="36" y1="252" x2="564" y2="252" stroke="#D6E4F7" stroke-dasharray="2 6"/>
+<text x="36" y="276" font-family="'Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#475569">github.com/jeffsilva03</text>
+<text x="564" y="276" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0D9488">ver repositório
+ <tspan font-size="16">↗<animate attributeName="dy" values="0;-3;0" dur="1.6s" repeatCount="indefinite"/></tspan></text>
+</svg>

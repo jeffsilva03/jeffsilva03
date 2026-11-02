@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="Tá contratando? O resumo de quem eu sou e o que olhar primeiro. Clique para abrir." xml:space="preserve" style="white-space:pre">
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="#101F38" stroke="#1E3A66" stroke-width="1.5"/>
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="none" stroke="#5DB7FF" stroke-width="2" stroke-linecap="round" stroke-dasharray="120 2480" opacity=".9">
+ <animate attributeName="stroke-dashoffset" values="0;-2600" dur="9s" begin="-2.2s" repeatCount="indefinite"/></rect>
+<circle cx="62" cy="52" r="26" fill="#5DB7FF" fill-opacity=".14"/>
+<g transform="translate(48 38) scale(1.17)" fill="none" stroke="#5DB7FF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12h.01" />
+  <path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" />
+  <path d="M22 13a18.15 18.15 0 0 1-20 0" />
+  <rect width="20" height="14" x="2" y="6" rx="2" /></g>
+<text x="108" y="49" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#E8F1FD">Tá contratando?</text>
+<text x="108" y="76" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#9DBCE8">O resumo de quem eu sou e o que olhar primeiro</text>
+<g fill="none" stroke="#5DB7FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+ <animateTransform attributeName="transform" type="translate" values="0 -2;0 3;0 -2" dur="1.6s" begin="0.25s" repeatCount="indefinite"/>
+ <path d="M1134 47l9 9 9-9"/></g>
+</svg>

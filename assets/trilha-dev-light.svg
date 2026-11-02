@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="É dev? Onde vale a pena fuçar no código. Clique para abrir." xml:space="preserve" style="white-space:pre">
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="#FFFFFF" stroke="#D6E4F7" stroke-width="1.5"/>
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="none" stroke="#0D9488" stroke-width="2" stroke-linecap="round" stroke-dasharray="120 2480" opacity=".9">
+ <animate attributeName="stroke-dashoffset" values="0;-2600" dur="9s" begin="-6.6s" repeatCount="indefinite"/></rect>
+<circle cx="62" cy="52" r="26" fill="#0D9488" fill-opacity=".14"/>
+<g transform="translate(48 38) scale(1.17)" fill="none" stroke="#0D9488" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="m18 16 4-4-4-4" />
+  <path d="m6 8-4 4 4 4" />
+  <path d="m14.5 4-5 16" /></g>
+<text x="108" y="49" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#0F1E3A">É dev?</text>
+<text x="108" y="76" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#475569">Onde vale a pena fuçar no código</text>
+<g fill="none" stroke="#0D9488" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+ <animateTransform attributeName="transform" type="translate" values="0 -2;0 3;0 -2" dur="1.6s" begin="0.75s" repeatCount="indefinite"/>
+ <path d="M1134 47l9 9 9-9"/></g>
+</svg>

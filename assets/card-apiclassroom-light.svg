@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-label="APIClassroom — Google Classroom e Drive consultados pelo ChatGPT via MCP, com OAuth e acesso somente leitura. Stack: Python, FastAPI, MCP, Auth0." xml:space="preserve" style="white-space:pre">
+<defs><radialGradient id="g" cx="88%" cy="12%" r="70%"><stop stop-color="#B45309" stop-opacity=".28"/><stop offset="1" stop-color="#B45309" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="598" height="288" rx="20" fill="#FFFFFF" stroke="#D6E4F7" stroke-width="1.5"/>
+<rect x="1" y="1" width="598" height="288" rx="20" fill="url(#g)"/>
+<rect x="1" y="1" width="598" height="288" rx="20" fill="none" stroke="#B45309" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="140 1632">
+ <animate attributeName="stroke-dashoffset" values="0;-1772" dur="7s" repeatCount="indefinite"/></rect>
+<text x="36" y="54" font-family="'Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#B45309">03 · INTEGRAÇÃO + IA</text>
+<text x="34" y="104" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="800" letter-spacing="-.5" fill="#0F1E3A">APIClassroom</text>
+<text x="36" y="148" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#475569">Google Classroom e Drive consultados pelo ChatGPT</text><text x="36" y="174" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#475569">via MCP, com OAuth e acesso somente leitura.</text>
+<rect x="36.0" y="206" width="71.2" height="30" rx="15.0" fill="#B453091F" stroke="#B4530966"/><text x="49.0" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">Python</text><rect x="115.2" y="206" width="78.8" height="30" rx="15.0" fill="#B453091F" stroke="#B4530966"/><text x="128.2" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">FastAPI</text><rect x="202.0" y="206" width="48.6" height="30" rx="15.0" fill="#B453091F" stroke="#B4530966"/><text x="215.0" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">MCP</text><rect x="258.6" y="206" width="63.7" height="30" rx="15.0" fill="#B453091F" stroke="#B4530966"/><text x="271.6" y="225.7" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#0F1E3A">Auth0</text>
+<g transform="translate(528 66)">
+ <circle r="40" fill="none" stroke="#B45309" stroke-opacity=".45" stroke-dasharray="4 7"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></circle>
+ <circle r="28" fill="#B45309" fill-opacity=".14" stroke="#B45309" stroke-opacity=".5"/>
+ <g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="5s" repeatCount="indefinite"/><circle cx="40" r="4.5" fill="#B45309"/></g>
+ <text y="6.1" text-anchor="middle" font-family="'Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="17" font-weight="700" fill="#B45309">{ }</text>
+</g>
+<line x1="36" y1="252" x2="564" y2="252" stroke="#D6E4F7" stroke-dasharray="2 6"/>
+<text x="36" y="276" font-family="'Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#475569">github.com/jeffsilva03</text>
+<text x="564" y="276" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#B45309">ver repositório
+ <tspan font-size="16">↗<animate attributeName="dy" values="0;-3;0" dur="1.6s" repeatCount="indefinite"/></tspan></text>
+</svg>

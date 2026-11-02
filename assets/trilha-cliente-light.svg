@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="Tem um projeto? O que eu faço e como me chamar. Clique para abrir." xml:space="preserve" style="white-space:pre">
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="#FFFFFF" stroke="#D6E4F7" stroke-width="1.5"/>
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="none" stroke="#8A1FE0" stroke-width="2" stroke-linecap="round" stroke-dasharray="120 2480" opacity=".9">
+ <animate attributeName="stroke-dashoffset" values="0;-2600" dur="9s" begin="-4.4s" repeatCount="indefinite"/></rect>
+<circle cx="62" cy="52" r="26" fill="#8A1FE0" fill-opacity=".14"/>
+<g transform="translate(48 38) scale(1.17)" fill="none" stroke="#8A1FE0" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5" />
+  <path d="M9 18h6" />
+  <path d="M10 22h4" /></g>
+<text x="108" y="49" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#0F1E3A">Tem um projeto?</text>
+<text x="108" y="76" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#475569">O que eu faço e como me chamar</text>
+<g fill="none" stroke="#8A1FE0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+ <animateTransform attributeName="transform" type="translate" values="0 -2;0 3;0 -2" dur="1.6s" begin="0.50s" repeatCount="indefinite"/>
+ <path d="M1134 47l9 9 9-9"/></g>
+</svg>
