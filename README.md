@@ -12,7 +12,7 @@
 <br />
 
 <a href="https://devjeffsilva.com.br"><img alt="Portfólio" src="https://img.shields.io/badge/PORTFÓLIO-devjeffsilva.com.br-2379E8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jefferson-silva-355620323/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jefferson-jsilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jeffop801@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-Falar%20comigo-7C5CFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=jeffsilva03&label=VISITAS&color=0B1426&style=for-the-badge" />
 
@@ -42,7 +42,7 @@ Se der tempo de olhar uma coisa só, olha o [**Chega Junto**](https://github.com
 
 Depois dele, o [Agenda Jeff](https://github.com/jeffsilva03/agendajeff-public) (Next.js + Supabase, com testes) e o [APIClassroom](https://github.com/jeffsilva03/APIClassroom), que conecta o Google Classroom ao ChatGPT, mostram bem como eu trabalho.
 
-Bora conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/jefferson-silva-355620323/) ou manda um [e-mail](mailto:jeffop801@gmail.com).
+Bora conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/jefferson-jsilva/) ou manda um [e-mail](mailto:jeffop801@gmail.com).
 
 </details>
 
@@ -139,14 +139,9 @@ Ah, e abre o console do navegador. Deixei um recado pra quem é curioso.
 <br />
 
 <div align="center">
-<!-- A instância pública do github-readme-stats sofre limite de uso. Se não carregar, faça deploy próprio na Vercel e troque a URL. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeffsilva03&show_icons=true&hide_border=true&count_private=true&bg_color=0B1426&title_color=5DB7FF&text_color=E8F1FD&icon_color=2379E8" />
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=jeffsilva03&show_icons=true&hide_border=true&count_private=true&bg_color=F5F8FF&title_color=136ED6&text_color=0F1E3A&icon_color=2379E8" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsilva03&layout=compact&hide_border=true&bg_color=0B1426&title_color=5DB7FF&text_color=E8F1FD" />
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsilva03&layout=compact&hide_border=true&bg_color=F5F8FF&title_color=136ED6&text_color=0F1E3A" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffsilva03/jeffsilva03/output/stats-dark.svg" />
+  <img alt="Estatísticas de atividade no GitHub: contribuições, commits, dias ativos, sequências, repositórios e linguagens mais usadas" src="https://raw.githubusercontent.com/jeffsilva03/jeffsilva03/output/stats-light.svg" width="100%" />
 </picture>
 </div>
 
@@ -164,7 +159,7 @@ Ah, e abre o console do navegador. Deixei um recado pra quem é curioso.
 
 <a href="https://devjeffsilva.com.br">Portfólio</a> &nbsp;·&nbsp;
 <a href="https://devjeffsilva.com.br/all_projects">Projetos</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/jefferson-silva-355620323/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/jefferson-jsilva/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/jeffsilva03?tab=repositories">GitHub</a> &nbsp;·&nbsp;
 <a href="mailto:jeffop801@gmail.com">E-mail</a> &nbsp;·&nbsp;
 <a href="#topo">Voltar ao topo ↑</a>
