@@ -17,7 +17,9 @@ from gerar_assets import THEMES, SANS, MONO, svg, e
 LOGIN = os.environ.get("GITHUB_LOGIN", "jeffsilva03")
 TOP_N = 6
 # Linguagens que não entram no ranking (ex.: "HTML", "CSS"). Deixe vazio para contar todas.
-IGNORAR = {"HTML", "CSS", "SCSS", "JavaScript", "Jupyter Notebook"}
+IGNORAR = {"HTML", "CSS", "SCSS", "JavaScript", "Jupyter Notebook",
+           # arquivos gerados automaticamente pelo Flutter (Windows, Linux, iOS e macOS)
+           "C++", "CMake", "Swift", "Objective-C", "Batchfile", "Ruby"}
 
 QUERY = """
 query($login: String!) {
