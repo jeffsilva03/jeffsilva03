@@ -17,7 +17,7 @@ from gerar_assets import THEMES, SANS, MONO, svg, e
 LOGIN = os.environ.get("GITHUB_LOGIN", "jeffsilva03")
 TOP_N = 6
 # Linguagens que não entram no ranking (ex.: "HTML", "CSS"). Deixe vazio para contar todas.
-IGNORAR = {"Jupyter Notebook"}
+IGNORAR = {"HTML", "CSS", "SCSS", "JavaScript", "Jupyter Notebook"}
 
 QUERY = """
 query($login: String!) {
